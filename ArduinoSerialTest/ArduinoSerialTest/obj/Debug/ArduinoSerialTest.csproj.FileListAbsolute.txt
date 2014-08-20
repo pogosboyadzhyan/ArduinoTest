@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\Programming\Code\C#\ArduinoSerialTest\ArduinoSerialTest\bin\Debug\ArduinoSerialTest.exe.config
+C:\Users\user\Desktop\Programming\Code\C#\ArduinoSerialTest\ArduinoSerialTest\obj\Debug\ArduinoSerialTest.csprojResolveAssemblyReference.cache
